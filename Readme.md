@@ -1,6 +1,6 @@
 # Research Tools 学术工具
 
-### 
+### Templates for Journals and Conferences 期刊、会议模板
 
 * IEEE Template Selector IEEE 全系列模板
 https://template-selector.ieee.org/secure/templateSelector/publicationType
